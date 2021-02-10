@@ -381,7 +381,7 @@ header {
         -ms-flex-align: center;
             align-items: center;
     padding-top: 25px;
-    padding-bottom: 25px;
+    padding-bottom: 14px;
   }
   .header .logo {
     margin-right: 93px;
