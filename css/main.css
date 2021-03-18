@@ -207,6 +207,7 @@ header {
     padding-bottom: 60px;
   }
   .menu-container.is-open {
+    z-index: 1;
     display: block;
   }
   .nav-contacts__item {

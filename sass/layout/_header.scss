@@ -73,6 +73,7 @@ header {
     padding-bottom: 60px;
 
     &.is-open {
+      z-index: 1;
       display: block;
     }
   }
